@@ -22,7 +22,7 @@ I’m diving deeper into the world of **LLMs** and their real-world applications
 ### 🎯 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/adelkovacs/)
 - 📫 [Email](mailto:kovacsadel12@gmail.com)  
-- 🐦 [Twitter](https://twitter.com/adelkov](https://x.com/adel_kov)
+- 🐦 [Twitter](https://x.com/adel_kov)
 
 ---
 
