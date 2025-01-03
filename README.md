@@ -9,9 +9,6 @@ At Colossyan, I’m part of the core team working on our flagship product: the *
 #### ✈️ Founder of [TestAir360](https://testair360.com/)  
 As the founder of TestAir360, I lead an innovative platform providing remote aptitude tests tailored for pilot training academies. Trusted by industry leaders like Wizz Air Pilot Academy, we help shape the next generation of aviators. 🚀
 
-#### 🛠️ Wannabe Indie Hacker  
-I love experimenting with side projects and exploring the indie hacker lifestyle. Whether it’s creating the next thing for padel players or building personal tools, I’m always up for a challenge that sparks creativity.
-
 ---
 
 ### 🌱 What I'm Learning:  
