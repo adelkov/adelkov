@@ -3,7 +3,7 @@ Welcome to my digital corner on GitHub. Here's a bit about me:
 
 ---
 
-#### 👨‍💻 Senior Engineer at [Colossyan](https://colossyan.com/)  
+#### 👨‍💻 Staff Engineer at [Colossyan](https://colossyan.com/)  
 At Colossyan, I’m part of the core team working on our flagship product: the **AI Editor**. It’s a super complex, cutting-edge tool for AI-driven video content creation. My day-to-day involves solving intricate challenges in frontend development and pushing the boundaries of video editing software.
 
 #### ✈️ Founder of [TestAir360](https://testair360.com/)  
