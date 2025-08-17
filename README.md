@@ -1,5 +1,8 @@
+
+![adelkovacs-signature](https://github.com/user-attachments/assets/089bd49e-c347-47cf-8088-2ac4c5e8b5e2)
 ### Hi there 👋 I'm Adel!  
 Welcome to my digital corner on GitHub. Here's a bit about me:
+
 
 ---
 
